@@ -53,13 +53,11 @@ If you want to include the whole library in a global way, just copy and paste th
     "@RageUI/menu/items/UIButton.lua",
     "@RageUI/menu/items/UICheckBox.lua",
     "@RageUI/menu/items/UIList.lua",
-    "@RageUI/menu/items/UIProgress.lua",
     "@RageUI/menu/items/UISeparator.lua",
     "@RageUI/menu/items/UISlider.lua",
     "@RageUI/menu/items/UISliderHeritage.lua",
     "@RageUI/menu/items/UISliderProgress.lua",
 
-    "@RageUI/menu/panels/UIButtonPanel.lua",
     "@RageUI/menu/panels/UIColourPanel.lua",
     "@RageUI/menu/panels/UIGridPanel.lua",
     "@RageUI/menu/panels/UIPercentagePanel.lua",
